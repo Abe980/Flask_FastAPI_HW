@@ -4,7 +4,7 @@
 # в тексте и переход на страницу с результатом.
 
 
-from flask import Flask, render_template, request, make_response
+from flask import Flask, render_template, request
 
 
 app = Flask(__name__)
